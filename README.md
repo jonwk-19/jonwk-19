@@ -42,10 +42,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdomingo2022206&show_icons=true&locale=en&layout=compact" alt="jdomingo2022206" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdomingo2022206&show_icons=true&locale=en&layout=compact&theme=dark" alt="jdomingo2022206" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdomingo2022206&show_icons=true&locale=en" alt="jdomingo2022206" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdomingo2022206&show_icons=true&locale=en&theme=dark" alt="jdomingo2022206" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdomingo2022206&" alt="jdomingo2022206" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdomingo2022206&theme=dark" alt="jdomingo2022206" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdomingo2022206" alt="jdomingo2022206" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdomingo2022206&theme=dark" alt="jdomingo2022206" /></a> </p>
