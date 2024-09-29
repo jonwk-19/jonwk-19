@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **React, NodeJS and Cybersecurity**
 
 - 👯 I’m looking to collaborate on **softaware development, like backend projects**
 
 - 🤝 I’m looking for help **with tips to improve my skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jdomingo2022206](https://github.com/jdomingo2022206)
+- 👨‍💻 All of my projects are available at [https://github.com/jonwk-19](https://github.com/jonwk-19)
 
 - 💬 Ask me about **JavaScript and backend projects**
 
