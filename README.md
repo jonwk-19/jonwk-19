@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **softaware development, like backend projects**
 
-- 🤝 I’m looking for help with **with tips to improve my skills**
+- 🤝 I’m looking for help **with tips to improve my skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jdomingo2022206](https://github.com/jdomingo2022206)
 
