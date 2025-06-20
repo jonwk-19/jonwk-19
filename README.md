@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">I'm an enthusiastic junior developer 😼</h3>
-<h4 align="center">Junior software developer passionate about backend development, always seeking knowledge and new experiences 🔭</h4>
+<h3 align="center">I'm an enthusiastic backend developer 😼</h3>
+<h4 align="center">I'm a developer passionate about backend development, always seeking knowledge and new experiences 🔭</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdomingo2022206&label=Profile%20views&color=0e75b6&style=flat" alt="jdomingo2022206" /> </p>
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **React, NodeJS and Cybersecurity**
+- 🌱 I’m currently learning **DevOps and DevSecOps**
 
-- 👯 I’m looking to collaborate on **softaware development, like backend projects**
+- 👯 I’m looking to collaborate on **web development, like backend projects**
 
 - 🤝 I’m looking for help **with tips to improve my skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jonwk-19](https://github.com/jonwk-19)
+- 💼 **Most of my projects since 2023 have been developed for private organizations.** If you'd like to learn more about my skills or discuss a potential collaboration, feel free to **contact me**.
 
-- 💬 Ask me about **JavaScript and backend projects**
+- 👨‍💻 Some of my projects are available at [https://github.com/jonwk-19](https://github.com/jonwk-19) 
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Ask me about **JavaScript / TypeScript and backend projects**
+
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
