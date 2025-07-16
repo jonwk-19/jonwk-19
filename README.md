@@ -1,143 +1,115 @@
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">I'm an enthusiastic backend developer 😼</h3>
-<h4 align="center">I'm a developer passionate about backend development, always seeking knowledge and new experiences 🔭</h4>
+# 👋 Hi, I'm Jonathan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdomingo2022206&label=Profile%20views&color=0e75b6&style=flat" alt="jdomingo2022206" /> </p>
+### 😼 I'm an enthusiastic backend developer  
+#### 🔭 Passionate about backend development, always seeking knowledge and new experiences.
+
+![Profile Views](https://komarev.com/ghpvc/?username=jdomingo2022206&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### 🚀 About Me
 
 - 🔭 I’m currently working on **personal projects**
-
 - 🌱 I’m currently learning **DevOps and DevSecOps**
-
-- 👯 I’m looking to collaborate on **web development, like backend projects**
-
+- 👯 I’m looking to collaborate on **web development, especially backend projects**
 - 🤝 I’m looking for help **with tips to improve my skills**
+- 💼 **Most of my projects since 2023 have been developed for private organizations.**  
+  If you'd like to learn more about my skills or discuss a potential collaboration, feel free to **contact me**.
+- 👨‍💻 Some of my projects are available at: [github.com/jonwk-19](https://github.com/jonwk-19)
+- 💬 Ask me about **JavaScript, TypeScript, and backend development**
 
-- 💼 **Most of my projects since 2023 have been developed for private organizations.** If you'd like to learn more about my skills or discuss a potential collaboration, feel free to **contact me**.
+---
 
-- 👨‍💻 Some of my projects are available at [https://github.com/jonwk-19](https://github.com/jonwk-19) 
+### 📫 Connect with Me
 
-- 💬 Ask me about **JavaScript / TypeScript and backend projects**
+<!-- Replace with your actual contact links when ready -->
 
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-</p>
+- GitHub: [@jonwk-19](https://github.com/jonwk-19)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+## 🛠️ Languages and Tools
 
-  <!-- Frontend -->
-  <strong>Frontend:</strong><br>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <br><br>
+---
 
-  <!-- Backend -->
-  <strong>Backend:</strong><br>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="typeorm" width="40" height="40"/>
-  </a>
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-F4E04D?style=for-the-badge&logo=typeorm&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-  <br><br>
+---
 
-  <!-- Bases de Datos -->
-  <strong>Databases:</strong><br>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-  <br><br>
+---
 
-  <!-- DevOps & CI/CD -->
-  <strong>DevOps & CI/CD:</strong><br>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="github actions" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="sonarqube" width="40" height="40"/>
-  </a>
+### ⚙️ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-  <br><br>
+---
 
-  <!-- Testing & Code Quality -->
-  <strong>Testing & Code Quality:</strong><br>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/visionmedia/supertest" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/8314656/145719365-4c6e9582-95ee-4c54-bf0f-5a0ec8b67d3b.png" alt="supertest" width="40" height="40"/>
-  </a>
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
-  </a>
-  <a href="https://prettier.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" alt="prettier" width="40" height="40"/>
-  </a>
+### ✅ Testing & Code Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-FF6F00?style=for-the-badge&logo=supertest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky-7C3AED?style=for-the-badge&logo=git&logoColor=white)
 
-  <br><br>
+---
 
-  <!-- Control de versiones -->
-  <strong>Version Control:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+### 🗂️ Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-</p>
+---
+## 📊 GitHub Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=jonwk-19&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonwk-19&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="200"/> |
+|:--:|:--:|
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jonwk-19&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jonwk-19&theme=dark&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonwk-19&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🚀 Dev Card
+
+[![Dev Card](https://github.devcard.link/api/card?username=jonwk-19&theme=github&animation=true)](https://github.devcard.link/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonwk-19&show_icons=true&locale=en&layout=compact&theme=dark" alt="jdomingo2022206" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonwk-19&show_icons=true&locale=en&theme=dark" alt="jdomingo2022206" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonwk-19&theme=dark" alt="jdomingo2022206" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonwk-19&theme=dark" alt="jdomingo2022206" /></a> </p>
