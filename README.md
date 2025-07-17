@@ -87,15 +87,14 @@
 ---
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jonwk-19&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonwk-19&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="200"/> |
+| ![jonwk-19's Stats](https://github-readme-stats.vercel.app/api?username=jonwk-19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) | ![jonwk-19's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonwk-19&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) |
 |:--:|:--:|
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jonwk-19&theme=dark&hide_border=true" alt="GitHub Streak" height="200"/>
+![jonwk-19's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonwk-19&theme=vue-dark&hide_border=true)
 
 ---
-
 ## 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=jonwk-19&theme=dark&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
