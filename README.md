@@ -103,12 +103,6 @@
 
 ## 📈 GitHub Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonwk-19&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🚀 Dev Card
-
-[![Dev Card](https://github.devcard.link/api/card?username=jonwk-19&theme=github&animation=true)](https://github.devcard.link/)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonwk-19&bg_color=273849&color=41b883&line=41b883&point=81fefe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
