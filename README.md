@@ -9,14 +9,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **personal projects**
-- 🌱 I’m currently learning **DevOps and DevSecOps**
-- 👯 I’m looking to collaborate on **web development, especially backend projects**
-- 🤝 I’m looking for help **with tips to improve my skills**
-- 💼 **Most of my projects since 2023 have been developed for private organizations.**  
-  If you'd like to learn more about my skills or discuss a potential collaboration, feel free to **contact me**.
-- 👨‍💻 Some of my projects are available at: [github.com/jonwk-19](https://github.com/jonwk-19)
-- 💬 Ask me about **JavaScript, TypeScript, and backend development**
+- 🔧 Backend-focused developer with interest in **software architecture, APIs, automation, and scalable systems**
+- 🌱 Currently growing in **DevOps, DevSecOps, cloud infrastructure, and AI-assisted development**
+- 🤝 Open to collaborating on **backend services, web platforms, automation workflows, and real-world software solutions**
+- 💼 Since 2023, I’ve worked mostly on projects for **private organizations**, so many of them are not publicly available
+- 👨‍💻 Some public projects are available at [github.com/jonwk-19](https://github.com/jonwk-19)
+- 💬 Feel free to ask me about **JavaScript, TypeScript, Node.js, NestJS, APIs, and backend development**
 
 ---
 
@@ -34,7 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
@@ -61,17 +59,63 @@
 
 ---
 
+### ☁️ Cloud, Servers & Infrastructure
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-111827?style=for-the-badge&logo=serverfault&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
 ### ⚙️ DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeforide&logoColor=white)
+
+---
+
+### 🤖 AI Tools & AI-Assisted Development
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1E3A8A?style=for-the-badge&logo=deepseek&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Skills](https://img.shields.io/badge/Claude_Skills-191919?style=for-the-badge&logo=claude&logoColor=white)
+
+---
+
+### 🧠 Automation, Workflows & Integrations
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-111827?style=for-the-badge&logo=webhooks&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🧑‍💻 Code Editors & Development Environments
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-1F2937?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
 ### ✅ Testing & Code Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-FF6F00?style=for-the-badge&logo=supertest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-FF6F00?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Husky](https://img.shields.io/badge/Husky-7C3AED?style=for-the-badge&logo=git&logoColor=white)
